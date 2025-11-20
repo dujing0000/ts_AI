@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 GOOGLE_API_KEY="<YOUR_GOOGLE_API_KEY>"
 ```
-PDF.pyはPDFを要約出来るAIです、使う方は以下の通りです。
+PDF.pyはPDFを要約出来るAIです、使う方は以下の通りです。/n
 ・ input_PDF = あなたは要約したいPDFを入れて
 ・ output_PDF = 要約PDF
 ・ PDF_document = input_PDF => output_PDF 終わったら元々のPDFを保存する所

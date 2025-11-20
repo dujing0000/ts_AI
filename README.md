@@ -19,4 +19,7 @@ python PDF.py
 ・ output_PDF = 要約PDF<br>
 ・ PDF_document = input_PDF => output_PDF 終わったら元々のPDFを保存する所<br>
 <br>
-app.py はチャットAIです。RAGでPDF.pyで要約したPDF(output_PDF)の中を検索して、答えるです。
+app.py はチャットAIです。RAGでPDF.pyで要約したPDF(output_PDF)の中を検索して、答えるです。<br>
+```
+python app.py
+```
